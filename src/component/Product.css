@@ -1,0 +1,29 @@
+.product-card
+{
+    height:20rem;
+    width:15rem;
+    border:1px solid #7f8c8d;
+    box-shadow: 0px 0px 40px 1px #95a5a6;
+    
+}
+.product-img
+{
+    height: 80%;
+    
+}
+.product-img img{
+    height: 100%;
+    width:100%;
+    object-fit: contain;
+}
+.product-btn
+{
+  height: 20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.product-btn button{
+    border-radius: 8%;
+
+}
